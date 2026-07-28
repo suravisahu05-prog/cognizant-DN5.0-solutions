@@ -1,1 +1,1 @@
-# cognizant-week1-exercise
+# Cognizant DN 5.0 - Java Full Stack Solutions
